@@ -1,3 +1,7 @@
 # Event Management System
 
-This repository is created for the Event Management System project.
+An Event Management System for managing event registration and event details.
+
+## Project Files
+
+- Test.java
